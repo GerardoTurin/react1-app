@@ -1,7 +1,8 @@
 //! ------------------------------------- Componente Principal de la App
 
+import React from 'react';
 import './App.css';
-import Testimonio from './componentes/Testimonio.js';
+import Testimonio from './componentes/Testimonio.jsx';
 
 
 function App() {

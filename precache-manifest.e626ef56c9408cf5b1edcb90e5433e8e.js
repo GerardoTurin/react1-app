@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "70291919182738ccd016",
-    "url": "/react1-app/static/css/main.8a70f4c6.chunk.css"
+    "revision": "b183a3e296eb12a09eda",
+    "url": "/react1-app/static/css/main.03c58c63.chunk.css"
   },
   {
-    "revision": "70291919182738ccd016",
-    "url": "/react1-app/static/js/main.70291919.chunk.js"
+    "revision": "b183a3e296eb12a09eda",
+    "url": "/react1-app/static/js/main.b183a3e2.chunk.js"
   },
   {
     "revision": "f3ba07ae8adf9c0824d2",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/react1-app/static/media/testimonio-Shawn.788e28f7.png"
   },
   {
-    "revision": "956ce5a6ea99235debb71a34408e1aa6",
+    "revision": "0c9f41c1b3b1514a4649a36b3b88977b",
     "url": "/react1-app/index.html"
   }
 ];

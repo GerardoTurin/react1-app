@@ -2,7 +2,7 @@
 
 import React from 'react';
 import './App.css';
-import Testimonio from './componentes/Testimonio.jsx';
+import Testimonio from './componentes/Testimonio.js';
 
 
 function App() {

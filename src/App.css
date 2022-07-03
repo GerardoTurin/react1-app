@@ -49,3 +49,19 @@ h1 {
         font-size: 2em;
     }
 }
+
+
+
+
+
+@media screen and (max-width: 480px) {
+
+    .contenedor-principal {
+        display: flex;
+        flex-direction: column;
+    }
+
+    h1 {
+        font-size: 1em;
+    }
+}
